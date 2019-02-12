@@ -3,7 +3,7 @@ Simple CSS photo grid
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the page:
 
 <img src='http://g.recordit.co/5JJVQgRPke.gif' />
 
